@@ -8,7 +8,7 @@ I'm a passionate developer with a keen interest in building impactful software s
 
 ### 🌱 **Currently Learning**
 - MERN Stack (MongoDB, Express.js, React, Node.js)
-- Not to stalk people online
+- How Not to stalk people online
 
 
 ---
